@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Various Data Analysis Techniques 
+A Collection of Varous Data Analysis Projects using Python mainly with Libraries like Pandas, Matploltlib and Seaborn
